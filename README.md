@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ODev-M/sonora-actualizaciones/releases/download/v1.1.0/Sonora-Instalador-1.1.0.exe">
+  <a href="https://github.com/ODev-M/sonora-actualizaciones/releases/download/v1.4.0/Sonora-Instalador-1.4.0.exe">
     <img src="https://img.shields.io/badge/Descargar_para-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar para Windows"></a>
-  <a href="https://github.com/ODev-M/sonora-actualizaciones/releases/download/v1.1.0/Sonora-1.1.0.apk">
+  <a href="https://github.com/ODev-M/sonora-actualizaciones/releases/download/v1.4.0/Sonora-1.4.0.apk">
     <img src="https://img.shields.io/badge/Descargar_para-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Descargar para Android"></a>
 </p>
 
